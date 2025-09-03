@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/food-react/static/css/main.b01d59f9.css",
-    "main.js": "/food-react/static/js/main.ca553cff.js",
+    "main.js": "/food-react/static/js/main.bb0a3d0d.js",
     "static/js/787.72439e53.chunk.js": "/food-react/static/js/787.72439e53.chunk.js",
     "static/media/pizzaLeft.jpeg": "/food-react/static/media/pizzaLeft.24b07891fef1c8dae848.jpeg",
     "static/media/vegan.jpeg": "/food-react/static/media/vegan.52cbfe9e6f8d75e18f8b.jpeg",
@@ -16,11 +16,11 @@
     "static/media/pedrotechspecial.jpeg": "/food-react/static/media/pedrotechspecial.425951cb0e484775fd4c.jpeg",
     "index.html": "/food-react/index.html",
     "main.b01d59f9.css.map": "/food-react/static/css/main.b01d59f9.css.map",
-    "main.ca553cff.js.map": "/food-react/static/js/main.ca553cff.js.map",
+    "main.bb0a3d0d.js.map": "/food-react/static/js/main.bb0a3d0d.js.map",
     "787.72439e53.chunk.js.map": "/food-react/static/js/787.72439e53.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b01d59f9.css",
-    "static/js/main.ca553cff.js"
+    "static/js/main.bb0a3d0d.js"
   ]
 }
